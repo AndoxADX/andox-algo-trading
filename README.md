@@ -1,6 +1,4 @@
 # JavaScript/Alpaca Algorithmic Trading
-## About
-This repository houses work that is a part of my series on algorithmic trading with Alpaca. I have been posting explanantions for the code here on both YouTube and Medium.
 
 ## Setup
 1) Clone the repository
