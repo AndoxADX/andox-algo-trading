@@ -1,0 +1,31 @@
+{
+  "name": "andox-algo-trading",
+  "version": "1.0.0",
+  "description": "This repository houses work that is a part of my series on algorithmic trading with Alpaca. I have been posting explanantions for the code here on both YouTube and Medium.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndoxADX/andox-algo-trading.git"
+  },
+  "author": "Andox Yap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndoxADX/andox-algo-trading/issues"
+  },
+  "homepage": "https://github.com/AndoxADX/andox-algo-trading#readme",
+  "dependencies": {
+    "@alpacahq/alpaca-trade-api": "2.15.0",
+    "lodash": "^4.17.21",
+    "technicalindicators": "^3.1.0",
+    "moment": "2.29.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "ts-node": "^10.7.0"
+  }
+}
+
